@@ -1,7 +1,13 @@
 {
   "channel": "s2",
-  "latest": "4.0.2",
+  "latest": "4.0.3",
   "versions": [
+    {
+      "version": "4.0.3",
+      "url": "https://82revo.github.io/DynoPro-Firmware/DynoPro_V4_0_3_S2.bin",
+      "sha256": "6DA825DEF563DEA524B66455ED1D76185E6946EA12C1CE97236052D1BEE21992",
+      "notes": "OTA version-selection test"
+    },
     {
       "version": "4.0.2",
       "url": "https://82revo.github.io/DynoPro-Firmware/DynoPro_V4_0_2_S2.bin",
