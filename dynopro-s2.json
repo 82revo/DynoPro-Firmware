@@ -1,18 +1,18 @@
 {
-  "channel": "s2",
-  "latest": "4.0.9",
-  "versions": [
-    {
-      "version": "4.0.9",
-      "url": "https://82revo.github.io/DynoPro-Firmware/DynoPro_V4_0_9_S2.bin",
-      "sha256": "E7065243DCB8EFDA1A61CF6EFF38A7885A1862A01AFE89321BC80EBB92FE47AB",
-      "notes": "Same working persistence behavior as V4.0.8"
-    },
-    {
-      "version": "4.0.8",
-      "url": "https://82revo.github.io/DynoPro-Firmware/DynoPro_V4_0_8_S2.bin",
-      "sha256": "89148B7B517B58C17762D24331E1FCEA87D49FA1741CF330ADE8319D70890BD0",
-      "notes": "Working persistence baseline"
-    }
-  ]
+    "channel":  "s2",
+    "latest":  "4.0.9",
+    "versions":  [
+                     {
+                         "version":  "4.0.9",
+                         "url":  "https://82revo.github.io/DynoPro-Firmware/DynoPro_V4_0_9_S2.bin",
+                         "sha256":  "83E590C5628B88AE4B73A17D2B5444E224506338ABCA1987158918668BE19913",
+                         "notes":  "Automated publish"
+                     },
+                     {
+                         "version":  "4.0.8",
+                         "url":  "https://82revo.github.io/DynoPro-Firmware/DynoPro_V4_0_8_S2.bin",
+                         "sha256":  "89148B7B517B58C17762D24331E1FCEA87D49FA1741CF330ADE8319D70890BD0",
+                         "notes":  "Working persistence baseline"
+                     }
+                 ]
 }
