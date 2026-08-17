@@ -2,12 +2,12 @@
     "channel":  "s2",
     "latest":  "4.0.10",
     "versions":  [
-                     {
-                         "version":  "4.0.10",
-                         "url":  "https://82revo.github.io/DynoPro-Firmware/DynoPro_V4_0_10_S2.bin",
-                         "sha256":  "EC37D52C76799D2E3B082F7B8963B58BF966C1DC01761E81241617568FDA766C",
-                         "notes":  "Automated publish"
-                     },
+                    {
+                      "version": "4.0.10",
+                      "url": "https://raw.githubusercontent.com/82revo/DynoPro-Firmware/main/DynoPro_V4_0_10_S2.bin",
+                      "sha256": "EC37D52C76799D2E3B082F7B8963B58BF966C1DC01761E81241617568FDA766C",
+                      "notes": "Automated publish"
+                    }    
                      {
                          "version":  "4.0.9",
                          "url":  "https://82revo.github.io/DynoPro-Firmware/DynoPro_V4_0_9_S2.bin",
