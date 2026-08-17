@@ -1,24 +1,18 @@
 {
   "channel": "s2",
-  "latest": "4.0.3",
+  "latest": "4.0.9",
   "versions": [
     {
-      "version": "4.0.3",
-      "url": "https://82revo.github.io/DynoPro-Firmware/DynoPro_V4_0_3_S2.bin",
-      "sha256": "6DA825DEF563DEA524B66455ED1D76185E6946EA12C1CE97236052D1BEE21992",
-      "notes": "OTA version-selection test"
+      "version": "4.0.9",
+      "url": "https://82revo.github.io/DynoPro-Firmware/DynoPro_V4_0_9_S2.bin",
+      "sha256": "E7065243DCB8EFDA1A61CF6EFF38A7885A1862A01AFE89321BC80EBB92FE47AB",
+      "notes": "Same working persistence behavior as V4.0.8"
     },
     {
-      "version": "4.0.2",
-      "url": "https://82revo.github.io/DynoPro-Firmware/DynoPro_V4_0_2_S2.bin",
-      "sha256": "FC24DA653A447D11012DF3056E70B24F397BE92317C874CC9569499E7EC010A6",
-      "notes": "Persistent settings, OTA progress and version selection"
-    },
-    {
-      "version": "4.0.1",
-      "url": "https://82revo.github.io/DynoPro-Firmware/DynoPro_V4_0_1_S2.bin",
-      "sha256": "F68021CB7B0BF46AF335869067AA36F6B4CE168A45028851B9C251C81EB7C4C0",
-      "notes": "First successful OTA test"
+      "version": "4.0.8",
+      "url": "https://82revo.github.io/DynoPro-Firmware/DynoPro_V4_0_8_S2.bin",
+      "sha256": "89148B7B517B58C17762D24331E1FCEA87D49FA1741CF330ADE8319D70890BD0",
+      "notes": "Working persistence baseline"
     }
   ]
 }
