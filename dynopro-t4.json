@@ -1,0 +1,12 @@
+{
+    "channel":  "t4",
+    "latest":  "4.4.0",
+    "versions":  [
+                     {
+                         "version":  "4.4.0",
+                         "url":  "https://82revo.github.io/DynoPro-Firmware/DynoPro_V4_4_0_T4.bin",
+                         "sha256":  "AF04503FC0451511D887EBAB43A306E5766D955720BA15615B2D0871DB9DC2D6",
+                         "notes":  "Automated publish"
+                     }
+                 ]
+}
